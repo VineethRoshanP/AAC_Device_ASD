@@ -9,7 +9,7 @@ Designed an All-In-One AAC device for children with Autism Spectrum Disorder tha
 
 # Final 3D Model:
 
-<img width="747" height="543" alt="image" src="https://github.com/user-attachments/assets/8a7a1034-cb08-40b3-b2a4-59761453f20e" />
+<img width="743" height="536" alt="image" src="https://github.com/user-attachments/assets/22fddf3d-e633-4f45-8596-39c74826e73f" />
 
 # Working Protoype:
 
